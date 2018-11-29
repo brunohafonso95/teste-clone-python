@@ -1,0 +1,18 @@
+<testsuite errors="0" failures="0" hostname="bhenriqueapw1001" name="features.Carrefour.Preencher Carrinho" skipped="1" tests="1" time="0.0" timestamp="2018-11-28T15:21:36.113034"><testcase classname="features.Carrefour.Preencher Carrinho" name="Preencher com algo eletronico" status="untested" time="0"><skipped /><system-out>
+<![CDATA[
+@scenario.begin
+
+  @Preencher_com_algo_eletronico
+  Scenario: Preencher com algo eletronico
+    Given Estou na tela de pesquisa de eletronicos ... untested in 0.000s
+    When Clico em um item ... untested in 0.000s
+      | Item |
+      | TV   |
+    Then Vou para a pagina do item ... untested in 0.000s
+    And Adiciono no carrinho ... untested in 0.000s
+    Then O item vai para o carrinho ... untested in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>

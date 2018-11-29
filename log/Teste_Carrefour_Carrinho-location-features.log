@@ -1,0 +1,7 @@
+UNUSED STEP DEFINITIONS[5]:
+  @given('Estou na tela de pesquisa de eletronicos')  # steps/Step_carrinho.py:1
+  @when('Clico em um item')                           # steps/Step_carrinho.py:6
+  @then('Vou para a pagina do item')                  # steps/Step_carrinho.py:11
+  @then('Adiciono no carrinho')                       # steps/Step_carrinho.py:16
+  @then('O item vai para o carrinho')                 # steps/Step_carrinho.py:21
+

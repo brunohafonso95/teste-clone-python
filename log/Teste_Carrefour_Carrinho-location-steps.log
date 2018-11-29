@@ -1,0 +1,21 @@
+@given('Estou na tela de pesquisa de eletronicos')
+  Function: step_impl()
+  Location: steps/Step_carrinho.py:1
+
+@when('Clico em um item')
+  Function: step_impl()
+  Location: steps/Step_carrinho.py:6
+
+@then('Vou para a pagina do item')
+  Function: step_impl()
+  Location: steps/Step_carrinho.py:11
+
+@then('Adiciono no carrinho')
+  Function: step_impl()
+  Location: steps/Step_carrinho.py:16
+
+@then('O item vai para o carrinho')
+  Function: step_impl()
+  Location: steps/Step_carrinho.py:21
+
+

@@ -1,0 +1,11 @@
+# estrutura basica do arquivo de execução
+Teste0:
+    Tipo: Web
+    Name: Teste_Carrefour_Carrinho
+    Navegadores:
+        - Chrome
+    Saida: resultados.json
+    Tags:
+        - Preencher_com_algo_eletronico
+    Args:
+        url: https://www.carrefour.com.br
